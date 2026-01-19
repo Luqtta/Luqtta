@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou o Lucas! 👋</h1>
 
-<!--
-**Luqtta/Luqtta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Desenvolvedor focado em Back-end, APIs e soluções web 🚀
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.linkedin.com/in/lucas-morais-souza-a5b599317/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante do ensino médio (16 anos, 17 em abril)
+- 💻 Desenvolvedor com foco em **Java** e **Back-end**
+- 🔗 Experiência com **APIs REST** e integrações
+- 💳 Projetos envolvendo **gateways de pagamento**
+- 🧠 Sempre buscando evolução técnica e boas práticas
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luqtta&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqtta&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Tecnologias & Stacks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,mysql,git,github" />
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lucas-morais-souza-a5b599317/
+- 💻 GitHub: https://github.com/luqtta
