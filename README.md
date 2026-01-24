@@ -40,9 +40,6 @@ Desenvolvedor focado em Back-end, APIs e soluções web 🚀
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,prisma,postgres,mysql,git,github" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,minecraft" />
-</p>
 
 
 ---
