@@ -25,6 +25,18 @@ Desenvolvedor focado em Back-end, APIs e soluções web 🚀
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luqtta&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luqtta&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Tecnologias & Stacks
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,spring,prisma,postgres,mysql,git,github" />
 </p>
 
@@ -32,14 +44,6 @@ Desenvolvedor focado em Back-end, APIs e soluções web 🚀
   <img src="https://skillicons.dev/icons?i=discord,minecraft" />
 </p>
 
-
----
-
-## 🚀 Tecnologias & Stacks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres,mysql,git,github" />
-</p>
 
 ---
 
