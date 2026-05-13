@@ -16,7 +16,7 @@ Especializado em construir APIs REST escaláveis com Spring Boot, PostgreSQL e D
 
 ## 👨‍💻 Sobre mim
 
-16 anos • Desenvolvedor Backend com foco em **Java** e **Spring Boot**
+17 anos • Desenvolvedor Backend com foco em **Java** e **Spring Boot**
 
 Comecei desenvolvendo **plugins complexos para servidores Minecraft** usando Bukkit/Spigot — sistemas de clãs, warps, NPCs e economia — o que me deu uma base sólida em **POO, eventos e persistência de dados**. 
 
