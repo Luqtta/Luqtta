@@ -18,7 +18,7 @@ Especializado em construir APIs REST escaláveis com Spring Boot, PostgreSQL e D
 
 17 anos • Desenvolvedor Backend com foco em **Java** e **Spring Boot**
 
-Comecei desenvolvendo **plugins complexos para servidores Minecraft** usando Bukkit/Spigot — sistemas de clãs, warps, NPCs e economia — o que me deu uma base sólida em **POO, eventos e persistência de dados**. 
+Comecei desenvolvendo **plugins complexos para servidores Minecraft** usando Bukkit/Spigot — sistemas de clãs, warps, NPCs e economia — o que me deu uma base sólida em **POO, eventos e persistência de dados**.
 
 Hoje construo **APIs REST** modernas com Spring Boot, PostgreSQL e Docker, aplicando arquitetura em camadas, autenticação JWT e boas práticas de desenvolvimento.
 
@@ -58,15 +58,27 @@ Hoje construo **APIs REST** modernas com Spring Boot, PostgreSQL e Docker, aplic
 
 ## 🚀 Projetos Destacados
 
+### [NossaGrana](https://github.com/Luqtta/NossaGrana) — 🟢 Em produção
+Aplicação full-stack de gestão financeira compartilhada para casais
+- **Stack:** Spring Boot • React • TypeScript • PostgreSQL • JWT • Brevo
+- **Features:** Controle de despesas, orçamento por categoria, relatórios mensais, convite de parceiro por email, tema claro/escuro
+- **Deploy:** [nossa-grana-theta.vercel.app](https://nossa-grana-theta.vercel.app)
+
+### [DayFlow](https://github.com/Luqtta/dayflow) — 🟢 Em produção
+Aplicação full-stack de gerenciamento de rotinas com gamificação
+- **Stack:** Spring Boot • React • PostgreSQL • JWT • Cloudinary
+- **Features:** Sistema de pontuação, ranking global, upload de avatares, histórico com gráficos
+- **Deploy:** [day-flow-eta.vercel.app](https://day-flow-eta.vercel.app)
+
+### [Mc-Vip-SaaS](https://github.com/Luqtta/Mc-Vip-SaaS)
+SaaS de venda de VIP para servidores Minecraft com entrega automática via plugin
+- **Stack:** Next.js • TypeScript • Prisma • PostgreSQL • Mercado Pago • Plugin Bukkit (Java)
+- **Features:** Checkout Pro, webhook com validação anti-duplicação, plugin com polling e retry automático
+
 ### [Helpdesk API](https://github.com/Luqtta/helpdesk-api)
 Sistema de gerenciamento de tickets de suporte com arquitetura RESTful
 - **Stack:** Spring Boot • PostgreSQL • JWT • Docker
 - **Features:** CRUD completo, autenticação JWT, arquitetura em camadas, containerização
-
-### [DayFlow](https://github.com/Luqtta/dayflow)
-Aplicação full-stack de gerenciamento de rotinas com gamificação
-- **Stack:** Spring Boot • React • PostgreSQL • JWT • Cloudinary
-- **Features:** Sistema de pontuação, ranking global, upload de avatares, histórico com gráficos
 
 ### [Medical Remember](https://github.com/Luqtta/medical-remember)
 App de lembretes de medicamentos com notificações automatizadas
@@ -76,7 +88,6 @@ App de lembretes de medicamentos com notificações automatizadas
 ### [Plugins Minecraft (Java)](https://github.com/Luqtta)
 Diversos plugins desenvolvidos em Java usando Bukkit/Spigot
 - **SistemaClan:** Gerenciamento de clãs com permissões e hierarquia
-- **DayFlow:** Sistema de gameplay com eventos e persistência
 - **NpcTrades:** Sistema de comércio com NPCs
 
 ---
