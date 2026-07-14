@@ -6,6 +6,8 @@
 
 Especializado em construir APIs REST escaláveis com Spring Boot, PostgreSQL e Docker.
 
+🎯 **Aberto a oportunidades — Estágio ou Júnior Backend Java**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-morais-souza-a5b599317/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucasportifolioweb.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.moraisoffice@gmail.com)
@@ -16,13 +18,11 @@ Especializado em construir APIs REST escaláveis com Spring Boot, PostgreSQL e D
 
 ## 👨‍💻 Sobre mim
 
-17 anos • Desenvolvedor Backend com foco em **Java** e **Spring Boot**
+Desenvolvedor Backend com foco em **Java** e **Spring Boot**
 
 Comecei desenvolvendo **plugins complexos para servidores Minecraft** usando Bukkit/Spigot — sistemas de clãs, warps, NPCs e economia — o que me deu uma base sólida em **POO, eventos e persistência de dados**.
 
-Hoje construo **APIs REST** modernas com Spring Boot, PostgreSQL e Docker, aplicando arquitetura em camadas, autenticação JWT e boas práticas de desenvolvimento.
-
-🎯 **Buscando oportunidades** como Backend Java Developer Júnior ou Estagiário
+Hoje construo e mantenho **aplicações em produção** — incluindo um produto comercial completo — com Spring Boot, PostgreSQL e Docker, aplicando arquitetura em camadas, autenticação JWT e boas práticas de desenvolvimento.
 
 ---
 
@@ -56,7 +56,13 @@ Hoje construo **APIs REST** modernas com Spring Boot, PostgreSQL e Docker, aplic
 
 ---
 
-## 🚀 Projetos Destacados
+## 🚀 Projetos em Produção
+
+### [TL Optimizer](https://thelite.com.br) — 🟢 Produto comercial
+Otimizador de performance para Windows desenvolvido de ponta a ponta, com **+10.000 downloads** e modelo premium de assinatura
+- **Stack:** Electron • React • C#/.NET 8 • Java/Spring Boot • PostgreSQL
+- **Features:** Engine nativa com dezenas de otimizações 100% reversíveis (latência de rede, CPU, GPU NVIDIA/AMD), licenciamento assinado no servidor, painel administrativo, site com i18n e programa de afiliados
+- **Site:** [thelite.com.br](https://thelite.com.br) · _código privado — produto comercial_
 
 ### [NossaGrana](https://github.com/Luqtta/NossaGrana) — 🟢 Em produção
 Aplicação full-stack de gestão financeira compartilhada para casais
@@ -69,6 +75,16 @@ Aplicação full-stack de gerenciamento de rotinas com gamificação
 - **Stack:** Spring Boot • React • PostgreSQL • JWT • Cloudinary
 - **Features:** Sistema de pontuação, ranking global, upload de avatares, histórico com gráficos
 - **Deploy:** [day-flow-eta.vercel.app](https://day-flow-eta.vercel.app)
+
+### [Honora](https://github.com/Luqtta/Honora) — 🟢 Em produção
+Sistema de gestão de clientes e honorários para escritórios de advocacia previdenciária
+- **Stack:** Java 21 • Spring Boot 3.5 • React • TypeScript • Tailwind • PostgreSQL
+- **Features:** Monorepo com autenticação JWT, gestão de clientes e honorários, deploy na Vercel + Railway
+- **Deploy:** [honora-psi.vercel.app](https://honora-psi.vercel.app)
+
+---
+
+## 📚 Outros Projetos
 
 ### [Mc-Vip-SaaS](https://github.com/Luqtta/Mc-Vip-SaaS)
 SaaS de venda de VIP para servidores Minecraft com entrega automática via plugin
